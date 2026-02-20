@@ -36,7 +36,7 @@
 
 - Estructura Embed
 
-<a href="https://imgbox.com/ZjEFZkQX" target="_blank"><img src="https://images2.imgbox.com/90/e0/ZjEFZkQX_o.gif" alt="image host"/></a> <a href="https://imgbox.com/zQOdIMo7" target="_blank"><img src="https://images2.imgbox.com/b0/cf/zQOdIMo7_o.gif" alt="image host"/></a> <a href="https://imgbox.com/cAso69xH" target="_blank"><img src="https://images2.imgbox.com/ad/63/cAso69xH_o.gif" alt="image host"/></a>
+a href="https://imgbox.com/ZjEFZkQX" target="_blank"><img src="https://images2.imgbox.com/90/e0/ZjEFZkQX_o.gif" alt="image host"/></a> <a href="https://imgbox.com/zQOdIMo7" target="_blank"><img src="https://images2.imgbox.com/b0/cf/zQOdIMo7_o.gif" alt="image host"/></a> <a href="https://imgbox.com/cAso69xH" target="_blank"><img src="https://images2.imgbox.com/ad/63/cAso69xH_o.gif" alt="image host"
 
 
 - Estructura final
@@ -44,3 +44,7 @@
 https://images2.imgbox.com/90/e0/ZjEFZkQX_o.gif
 https://images2.imgbox.com/b0/cf/zQOdIMo7_o.gif
 https://images2.imgbox.com/ad/63/cAso69xH_o.gif
+
+
+
+<a href="https://imgbox.com/ZjEFZkQX" target="_blank"><img src="https://images2.imgbox.com/90/e0/ZjEFZkQX_o.gif" alt="image host"/></a> <a href="https://imgbox.com/zQOdIMo7" target="_blank"><img src="https://images2.imgbox.com/b0/cf/zQOdIMo7_o.gif" alt="image host"/></a> <a href="https://imgbox.com/cAso69xH" target="_blank"><img src="https://images2.imgbox.com/ad/63/cAso69xH_o.gif" alt="image host"/></a>
