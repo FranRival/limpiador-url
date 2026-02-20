@@ -2,6 +2,34 @@ import tkinter as tk
 from tkinter import scrolledtext
 import os
 import re
+from tkinter import PhotoImage
+
+root = tk.Tk()
+
+
+import sys
+import os
+
+def ruta_recurso(rel_path):
+    try:
+        base_path = sys._MEIPASS  # PyInstaller temp folder
+    except Exception:
+        base_path = os.path.abspath(".")
+
+    return os.path.join(base_path, rel_path)
+
+
+
+# Para ventana (PNG)
+icono_png = PhotoImage(file=ruta_recurso("icono.png"))
+root.iconphoto(True, icono_png)
+
+# Para ejecutable (ICO)
+ruta_icono = ruta_recurso("icono.ico")
+try:
+    root.iconbitmap(ruta_icono)
+except:
+    pass
 
 def limpiar_rutas(texto):
     lineas = texto.strip().splitlines()
@@ -37,8 +65,9 @@ def procesar():
 
 
 # UI
-root = tk.Tk()
+
 root.title("Extractor PRO")
+
 
 modo = tk.StringVar(value="ruta")
 
