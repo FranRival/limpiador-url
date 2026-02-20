@@ -10,11 +10,11 @@
 
 - Estrcutura resultante 
 
-1DB.jpg
-3D6.jpg
-09C.jpg
-23F.jpg
-62F.jpg
+1DB.jpg  
+3D6.jpg  
+09C.jpg  
+23F.jpg  
+62F.jpg  
 
 - Con Folders
 
@@ -26,11 +26,11 @@
 
 - Estrucutura final
  
- Folder1
- Folder2
- Folder3
- Folder4
- Folder5
+ Folder1  
+ Folder2  
+ Folder3  
+ Folder4  
+ Folder5  
 
 ### Limpiador de rutas <EMBED CODE>
 
